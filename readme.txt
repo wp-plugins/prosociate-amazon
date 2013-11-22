@@ -1,4 +1,4 @@
-=== Prosociate - Amazon Affiliate Plugin ===
+=== The Ultimate Solution For Amazon Affiliates ===
 Contributors: soflyy
 Tags: amazon,affiliate,associate,woocommerce
 Requires at least: 3.7
@@ -7,17 +7,19 @@ Stable tag: 0.9.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Post Amazon products into your WooCommerce store.
+Prosociate makes it easy to earn commissions with Amazon's associate program by posting products into WooCommerce.
 
 == Description ==
 
-To get started, you must have an Amazon associates account and AWS keys.
+Watch this video to see how Prosociate works!
 
-Install WooCommerce, then install Prosociate.
+http://www.youtube.com/watch?v=3Wu9gQMeZwk
 
-You can now use Prosociate to post products on hosted on Amazon into your WooCommerce storefront. They will appear with a "buy now" link instead of an "add to cart" link, and clicking the "buy now" link will take your visitor to Amazon to purchase the product, and you can potentially earn a commission for the sale. 
+*note* - video shows some pro version only features.
 
-It's also useful if you are a merchant and have some products on Amazon, and some are sold through your own website.
+The main difference in the free version is that instead of Add To Cart buttons that add products to the cart, they become Buy Now buttons that take users directly to Amazon.
+
+Otherwise, they're nearly identical!
 
 == Installation ==
 
@@ -26,6 +28,9 @@ It's also useful if you are a merchant and have some products on Amazon, and som
 3. Install WooCommerce, and then visit the Prosociate -> Settings page to get started.
 
 == Changelog ==
+
+= 0.9.2 =
+* Updated category tree/browsenodes functionality.
 
 = 0.9.0 =
 * First beta release on WordPress.org!
