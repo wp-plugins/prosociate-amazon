@@ -11,7 +11,9 @@ Prosociate makes it easy to earn commissions with Amazon's associate program by 
 
 == Description ==
 
-Watch this video to see how Prosociate works!
+[Prosociate.com Support Forums](http://www.prosociate.com/forums)
+
+= Watch this video to see how Prosociate works! =
 
 http://www.youtube.com/watch?v=3Wu9gQMeZwk
 
