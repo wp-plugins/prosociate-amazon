@@ -11,8 +11,7 @@ Prosociate makes it easy to earn commissions with Amazon's associate program by 
 
 == Description ==
 
-= Prosociate is the new way to build Amazon affiliate stores with WordPress. =  
-
+**Prosociate is the new way to build Amazon affiliate stores with WordPress.**  
 
 [Example Site Created With Prosociate](http://demo.prosociate.com/)
 
