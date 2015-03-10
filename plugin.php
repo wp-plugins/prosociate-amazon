@@ -3,7 +3,7 @@
   Plugin Name: Prosociate Free Edition
   Description: The best free WordPress plugin for Amazon Associates.
   Version: 1.0
-  Author: Soflyy
+  Author: WPSocial
   Plugin URI: http://www.prosociate.com/
  */
 
