@@ -33,14 +33,6 @@ You don't need to make a bunch of tweaks. Prosociate is already streamlined and 
 
 [Prosociate.com Support Forums](http://www.prosociate.com/forums)
 
-http://www.youtube.com/watch?v=3Wu9gQMeZwk
-
-*note* - video shows some pro version only features.
-
-The main difference in the free version is that instead of Add To Cart buttons that add products to the cart, they become Buy Now buttons that take users directly to Amazon.
-
-Otherwise, they're nearly identical!
-
 = Prosociate builds the best Amazon affiliate stores =  
 
 
