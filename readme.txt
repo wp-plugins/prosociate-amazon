@@ -1,5 +1,5 @@
 === The Ultimate Solution For Amazon Affiliates ===
-Contributors: soflyy
+Contributors: wpsocial
 Tags: amazon,affiliate,associate,woocommerce
 Requires at least: 3.7
 Tested up to: 3.8.1
